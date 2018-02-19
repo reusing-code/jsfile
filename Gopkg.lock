@@ -3,9 +3,9 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/gopherjs/gopherjs"
-  packages = ["js"]
-  revision = "3926a9f66452f7a8c8d9c0e4e3074383f9aff5cd"
+  name = "github.com/MJKWoolnough/gopherjs"
+  packages = ["files"]
+  revision = "3b897739f95a399cb01c0629ef22c5a18fc5c686"
 
 [[projects]]
   branch = "master"
@@ -16,6 +16,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "339e8b9f9dc9ba0a8e6b50513e960a4eccfd7aa037ce23fa936170620bcb6ddf"
+  inputs-digest = "7d9a1083a68b6c4a2405376bd35a47df47f4c2ed2699d37f37278358e060b0c3"
   solver-name = "gps-cdcl"
   solver-version = 1

@@ -24,10 +24,8 @@
 #   go-tests = true
 #   unused-packages = true
 
+ignored = ["github.com/gopherjs/gopherjs*"]
 
-[[constraint]]
-  branch = "master"
-  name = "github.com/gopherjs/gopherjs"
 
 [[constraint]]
   branch = "master"
