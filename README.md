@@ -2,7 +2,7 @@
 
 Very small GopherJS app to demonstrate local file manipulation in the browser.
 
-The webapp allows you to "upload" a file, the content gets converted to uppercase and "download" the result, all done locally in the browser.
+The webapp allows you to "upload" a file, whose content gets converted to uppercase and offering a "download" of the the result, all done locally in the browser.
 
 To check it out just serve it through gopherjs:
 ```
